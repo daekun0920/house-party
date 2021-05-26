@@ -13,3 +13,5 @@ Python - Django
 React.js
 
 Material UI
+
+Spotify API
