@@ -1,6 +1,6 @@
-# Musica-io
+# Music-party
 
-Musica-io is p2p music player.
+Music-party is a p2p music player implemented by Spotify API.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
