@@ -1,6 +1,6 @@
-# Music-party
+# House-party
 
-Music-party is a p2p music player implemented by Spotify API.
+House-party is a p2p music player implemented by Spotify API.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
